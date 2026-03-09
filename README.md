@@ -18,24 +18,6 @@ SecureAuth is a modern desktop login system built with Python and CustomTkinter,
 - CustomTkinter
 - Argon2-cffi
 
-## 📂 Project Structure
-
-SecureAuth/
-│── main.py
-│── security.py
-│── users.db
-
-## 🚀 Installation
-
-1. Clone the repository
-2. Install dependencies:
-
-pip install customtkinter argon2-cffi
-
-3. Run the application:
-
-python main.py
-
 ## 🔒 Security Note
 
 Passwords are never stored in plain text.
